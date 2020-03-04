@@ -1,0 +1,5 @@
+/Users/leandrosimoes/Projects/Spotify/Spotify/obj/Debug/Spotify.csprojAssemblyReference.cache
+/Users/leandrosimoes/Projects/Spotify/Spotify/bin/Debug/Spotify.exe
+/Users/leandrosimoes/Projects/Spotify/Spotify/bin/Debug/Spotify.pdb
+/Users/leandrosimoes/Projects/Spotify/Spotify/obj/Debug/Spotify.exe
+/Users/leandrosimoes/Projects/Spotify/Spotify/obj/Debug/Spotify.pdb
